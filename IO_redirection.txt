@@ -1,0 +1,4 @@
+cat > filename - adds whatever you type after the command on the commandline to the file(filename) 
+Cntl D - to end the 'cat' command
+cat >> filename - appends the new data after the already existing data in the file(filename)
+cat file1 file 2 > newfile - merges the contents of file1 and file2 and adds it in the 'newfile'
