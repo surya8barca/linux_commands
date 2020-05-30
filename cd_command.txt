@@ -1,0 +1,8 @@
+cd / - to navigate to 'root' directiry
+cd ~ - to navigate to 'home' directory
+cd .. - to navigate to previous directory
+cd path - to navigate to particular path
+
+in case of folder with space in name (Eg- 'My Projects')
+	cd My\ Projects - to navigate to 'My Projects' folder
+ 
