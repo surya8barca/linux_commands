@@ -1,0 +1,7 @@
+mkdir name - creates a directory 'name' in the current working directory
+mkdir name/subname - creates a diretory 'subname' in the existing directory 'name'
+	             gives an error if the directory 'name' doesn't exist
+mkdir -p name/subname - creates a directory 'subname' in the directory 'name'
+                        creates the parent directory 'name' if it doesn't exiss
+mkdir -p name/{name1,name2,..} - creates multiple sub directories as given inside the curly brackets(separated by ,) 
+                                 inside the parent directory 'name'
