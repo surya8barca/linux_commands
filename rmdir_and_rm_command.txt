@@ -1,0 +1,7 @@
+
+rmdir directory - removes an empty directory
+                  
+rmdir -p directory structure - removes an empty directory structure
+
+rm -r directory structure - removes a directory structure or directory and also deletes all the files in contains
+
